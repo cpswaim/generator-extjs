@@ -1,0 +1,8 @@
+TODO
+======
+- install sdk
+- install sass theme
+- gruntfile to build ext
+  - minify js
+  - compile theme
+  - watch for js and sass changes
